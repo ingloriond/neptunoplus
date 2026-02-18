@@ -2,6 +2,8 @@
 
 #### Implementación propia de Ricardo @Kyp069 del ZX Spectrum +3 con soporte de:
 
+Sources: https://github.com/Kyp069/zxp3
+
 - Disquetera A y B
 - DivMMC en modo +3e
 - Joystick Kempston dual
